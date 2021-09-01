@@ -15,11 +15,11 @@ Campus Recruitment Data Visualization is accurate and can be used with similar d
 
 ## :Following are some sample Plots
 
-![](https://github.com/Rajeev095/Campus-Placement-Prediction/blob/main/Screenshots/Degree%25vsIfPlaced.png)
+![](https://github.com/Rajeev095/-Campus-Placement-Prediction/blob/main/Screenshots/Degree%25vsIfPlaced.png)
 
-![](https://github.com/Rajeev095/Campus-Placement-Prediction/blob/main/Screenshots/SpecializationvsExp.png)
+![](https://github.com/Rajeev095/-Campus-Placement-Prediction/blob/main/Screenshots/SpecializationvsExp.png)
 
-![](https://github.com/Rajeev095/Campus-Placement-Prediction/blob/main/Screenshots/WorkExpvsIfPlaced.png)
+![](https://github.com/Rajeev095/-Campus-Placement-Prediction/blob/main/Screenshots/WorkExpvsIfPlaced.png)
 
 ## :file_folder: Dataset
 The dataset used can be downloaded here - [Click to Download](https://www.kaggle.com/benroshan/factors-affecting-campus-placement)
