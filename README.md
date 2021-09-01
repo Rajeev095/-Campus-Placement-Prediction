@@ -15,25 +15,14 @@ Campus Recruitment Data Visualization is accurate and can be used with similar d
 
 ## :Following are some sample Plots
 
-![](https://github.com/SahilChachra/Campus-Placement-Prediction/blob/master/Screenshots/Degree%25vsIfPlaced.png)
+![](https://github.com/Rajeev095/Campus-Placement-Prediction/blob/main/Screenshots/Degree%25vsIfPlaced.png)
 
-![](https://github.com/SahilChachra/Campus-Placement-Prediction/blob/master/Screenshots/SpecializationvsExp.png)
+![](https://github.com/Rajeev095/Campus-Placement-Prediction/blob/main/Screenshots/SpecializationvsExp.png)
 
-![](https://github.com/SahilChachra/Campus-Placement-Prediction/blob/master/Screenshots/WorkExpvsIfPlaced.png)
+![](https://github.com/Rajeev095/Campus-Placement-Prediction/blob/main/Screenshots/WorkExpvsIfPlaced.png)
 
 ## :file_folder: Dataset
 The dataset used can be downloaded here - [Click to Download](https://www.kaggle.com/benroshan/factors-affecting-campus-placement)
 
-## :key: Prerequisites
 
-All the dependencies and required libraries are included in the file <code>requirements.txt</code> [See here](https://github.com/SahilChachra/Campus-Placement-Prediction/blob/master/requirements.txt)
 
-## :clap: And it's done!
-Feel free to mail me for any doubts/query/Dataset if you get any new :wink: 
-:email: sahil.chachra3@live.com
-
-## :heart: Owner
-Made with :heart:&nbsp;  by [Sahil Chachra](hhttps://github.com/SahilChachra)
-
-## :eyes: License
-MIT © [Sahil Chachra](https://github.com/SahilChachra/Campus-Placement-Prediction/blob/master/LICENSE)
